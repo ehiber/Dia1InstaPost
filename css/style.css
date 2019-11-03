@@ -1,0 +1,68 @@
+body {
+    background: black;
+}
+
+.container1{
+    background: white;
+    width: 450px;
+    height: 60px;
+    margin: 40px auto 0;
+    padding-top: 15px;
+}
+
+.container1 h1{
+    margin: 8px 0 0;
+    display: block;
+    margin-left: 40px;
+    font-size: 1em ;
+
+}
+
+.container1 p{
+    margin: 0;
+    display: block;
+    margin-left: 40px;
+}
+
+.container2{
+    background: white;
+    width: 450px;
+    height: 500px;
+    margin: 0 auto;
+}
+
+.fotoprincipal img{
+    width: 450px;
+    height: 300px;
+}
+
+.fotoperfil img{
+    float: left;
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+}
+
+.icono img{
+    width: 40px;
+    height: 50px;
+    float: right;
+    margin: 1px 0 0;
+}
+
+.iconos{
+    padding: 10px;
+}
+
+.iconos img{
+    width: 40px;
+    height: 35px;
+}
+
+.iconos img:nth-child(4){
+    float: right;
+}
+
+.container2 p {
+    margin: 10px;
+}
